@@ -1,0 +1,100 @@
+{
+    "optimizer": "Hybrid GWOA+WOA",
+    "config": {
+        "best_params": [
+            0.430030398112666,
+            0.8979971248671867,
+            0.19722637354974232,
+            0.2625710829297856
+        ],
+        "best_score": 0.002759699439069541,
+        "optimizer": "Hybrid GWOA+WOA"
+    },
+    "metrics": {
+        "RMSE": 0.16854326830428354,
+        "MAE": 0.13709933300470487,
+        "R2": 0.2814993444369912
+    },
+    "predictions": [
+        {
+            "Actual_Power": 0.3448275862068965,
+            "Predicted_Power": 0.29828178882598877
+        },
+        {
+            "Actual_Power": 0.3793103448275862,
+            "Predicted_Power": 0.3308078944683075
+        },
+        {
+            "Actual_Power": 0.41379310344827586,
+            "Predicted_Power": 0.364222913980484
+        },
+        {
+            "Actual_Power": 0.44827586206896547,
+            "Predicted_Power": 0.39859655499458313
+        },
+        {
+            "Actual_Power": 0.4827586206896552,
+            "Predicted_Power": 0.4318808317184448
+        },
+        {
+            "Actual_Power": 0.5172413793103449,
+            "Predicted_Power": 0.4640153646469116
+        },
+        {
+            "Actual_Power": 0.5517241379310345,
+            "Predicted_Power": 0.4933701753616333
+        },
+        {
+            "Actual_Power": 0.5862068965517242,
+            "Predicted_Power": 0.5201839804649353
+        },
+        {
+            "Actual_Power": 0.6206896551724138,
+            "Predicted_Power": 0.5442458987236023
+        },
+        {
+            "Actual_Power": 0.6551724137931035,
+            "Predicted_Power": 0.5657911896705627
+        },
+        {
+            "Actual_Power": 0.6896551724137931,
+            "Predicted_Power": 0.5842372179031372
+        },
+        {
+            "Actual_Power": 0.7241379310344828,
+            "Predicted_Power": 0.5998595952987671
+        },
+        {
+            "Actual_Power": 0.7586206896551725,
+            "Predicted_Power": 0.6128998398780823
+        },
+        {
+            "Actual_Power": 0.7931034482758621,
+            "Predicted_Power": 0.6241973638534546
+        },
+        {
+            "Actual_Power": 0.8275862068965517,
+            "Predicted_Power": 0.6349279284477234
+        },
+        {
+            "Actual_Power": 0.8620689655172414,
+            "Predicted_Power": 0.6453331708908081
+        },
+        {
+            "Actual_Power": 0.896551724137931,
+            "Predicted_Power": 0.6553924083709717
+        },
+        {
+            "Actual_Power": 0.9310344827586207,
+            "Predicted_Power": 0.6652542352676392
+        },
+        {
+            "Actual_Power": 0.9655172413793104,
+            "Predicted_Power": 0.6547112464904785
+        },
+        {
+            "Actual_Power": 1.0,
+            "Predicted_Power": 0.6180796027183533
+        }
+    ]
+}
