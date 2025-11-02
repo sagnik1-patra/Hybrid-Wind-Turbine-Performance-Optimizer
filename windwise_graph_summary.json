@@ -1,0 +1,7 @@
+{
+    "AccuracyGraph": "windwise_accuracy_graph.png",
+    "Heatmap": "windwise_heatmap.png",
+    "ComparisonGraph": "windwise_comparison_graph.png",
+    "ResultGraph": "windwise_result_graph.png",
+    "PredictionGraph": "windwise_prediction_graph.png"
+}
